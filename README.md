@@ -1,4 +1,3 @@
-
 > ## Doordash website responsive clone using tailwind.css and html
 > > 1. ## [Clone site](https://myselfanandvp.github.io/Clone_doordash/ "Cloned Doordash website link")
 > > 2. ## [Orginal site](https://www.doordash.com/  "Orginal Doordash website link" )
